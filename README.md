@@ -13,7 +13,7 @@ high order array methods and DOM manipulation
 ## Links
 
 - [Repo](https://github.com/AlmogWer/DOM-array-methods "DOM-Array-methods Repo")
-- [Live](https://almogwer.github.io/DOM-array-methods/"Live View")
+- [Live](https://almogwer.github.io/DOM-array-methods/ "Live View")
 
 ## Screenshots
 
